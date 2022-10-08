@@ -20,9 +20,22 @@ A month-long celebration from October 1st - 31st sponsored by [Digital Ocean](ht
 ## TheAlgorithmsProject
 A place where you can find solutions to the most asked interview questions.
 
+You can contribute by adding new questions and their solutions to the repository.
+
 <hr>
 
-## How to contribute to this project
+# Contribution in short
+
+1. Check if the question your adding already exists.
+2. If not, then go to issues and see if someone has added an issue raising the same issue.
+3. If you see that no such issue exists then make a new issue. Make sure to mention which questions your adding and the links to ***Your*** solutions.
+4. After having the new issue has been assigned to you, start working on the same. Make sure to follow the rules after this section. ***Maintain the structure of the repository. If the structure is not maintained then the PR might not be accepted***.
+5. Send a PR. Do mention which Issue you solved by referencing it with a # and then typing the name of your issue.
+6. Make the steps below to get more details and a walkthrough of the PR process.
+
+<hr>
+
+# How to contribute to this project
 Here are 3 quick and painless steps to contribute to this project:
 
 * Make a new issue under (check if the same issue is open before checking that).
@@ -31,7 +44,7 @@ Here are 3 quick and painless steps to contribute to this project:
 
 <hr>
 
-## Getting started
+# Getting started
 * Fork this repository (Click the Fork button in the top right of this page, click your Profile Image)
 * Clone your fork down to your local machine
 
@@ -58,7 +71,9 @@ git push origin branch-name
 * Wait for your PR review and merge approval!
 * __Star this repository__ if you had fun!
 
-## Some things to keep in mind.
+<hr>
+
+# Some things to keep in mind.
 ### 1. Add some feature/ Improve existing feature.
 Usually when you feel the project is missing something, you want to add some feature.
 
@@ -87,6 +102,7 @@ Let your inner code show its colours. Do keep these in mind.
 The commit messages must be a small description of what you are trying to fix, add or remove. Its usually around 5-15 words.
 ```
 
+<hr>
 
 ## Shoutout to our awesome contributors
 
