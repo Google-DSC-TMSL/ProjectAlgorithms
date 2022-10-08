@@ -14,7 +14,7 @@
 
 <hr>
 
-| Problem Name | Link | Approach (Link) | Code |
+| Problem Name | Link | Approach | Code |
 | ------- | ------- | ---------- | -------- |
 | 3 Sum Closest |  [LeetCode](https://leetcode.com/problems/3sum-closest/)  | [Youtube](https://www.youtube.com/watch?v=qBr2hq4daWE) | [Java](../codes/java/3sumclosest.java) |
 | Time Based Key Value Store |  [LeetCode](https://leetcode.com/problems/time-based-key-value-store/)  | [Youtube](https://www.youtube.com/watch?v=fu2cD_6E8Hw)<br> [Medium](https://sakshi8699.medium.com/981-time-based-key-value-store-python-65bd81742818)| [Java](../codes/java/timebasedkeyvaluestore.java)<br> [Python](../codes/python/timebasedkeyvaluestore.py) |
@@ -25,6 +25,13 @@
 
 <br><h2><h2><hr>
 
+<h1 align="center">
+
+   <a href="CONTRIBUTING.md">
+   <img align=center width=100% src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=500&color=2CF7D4&center=true&vCenter=true&multiline=true&width=435&height=55&lines=Click+Here+to+Contribute;Read+CONTRIBUTING.md" />
+   </a>
+</h1>
+
 ## Shoutout to our awesome contributors 
 
 <br>
@@ -32,5 +39,7 @@
 <a href="https://github.com/GDSC-TMSL/TheAlgorithmsProject/">
   <img src="https://contrib.rocks/image?repo=GDSC-TMSL/TheAlgorithmsProject" />
 </a>
+
+<br><h2><h2><hr>
 
 </div>
