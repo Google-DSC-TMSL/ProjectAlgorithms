@@ -5,7 +5,7 @@ Use this project to make your first contribution to an open source project on Gi
 Celebrate [Hacktoberfest](https://hacktoberfest.digitalocean.com/) by getting involved in the open source community by completing some simple tasks in this project.
 
 
-[https://github.com/GDSC-TMSL/TheAlgorithmsProject/](https://github.com/GDSC-TMSL/TheAlgorithmsProject/)
+[https://github.com/GDSC-TMSL/ProjectAlgorithms/](https://github.com/GDSC-TMSL/ProjectAlgorithms/)
 
 <hr>
 
@@ -17,7 +17,7 @@ A month-long celebration from October 1st - 31st sponsored by [Digital Ocean](ht
 <hr>
 
 # What is this project?
-## TheAlgorithmsProject
+## Project Algorithms
 A place where you can find solutions to the most asked interview questions.
 
 You can contribute by adding new questions and their solutions to the repository.
@@ -49,7 +49,7 @@ Here are 3 quick and painless steps to contribute to this project:
 * Clone your fork down to your local machine
 
 ```markdown
-git clone https://github.com/your-username/TheAlgorithmsProject.git
+git clone https://github.com/your-username/ProjectAlgorithms.git
 ```
 
 * Create a branch
@@ -106,8 +106,8 @@ The commit messages must be a small description of what you are trying to fix, a
 
 ## Shoutout to our awesome contributors
 
-<a href="https://github.com/GDSC-TMSL/TheAlgorithmsProject/">
-  <img src="https://contrib.rocks/image?repo=GDSC-TMSL/TheAlgorithmsProject" />
+<a href="https://github.com/GDSC-TMSL/ProjectAlgorithms/">
+  <img src="https://contrib.rocks/image?repo=GDSC-TMSL/ProjectAlgorithms" />
 </a>
 
 
