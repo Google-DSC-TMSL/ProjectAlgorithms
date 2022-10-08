@@ -5,7 +5,7 @@
 <a href="https://github.com/GDSC-TMSL/TheAlgorithmsProject">
     <img src="https://readme-typing-svg.herokuapp.com?font=Foundry&duration=1&pause=1000&color=E1F74A&center=true&vCenter=true&lines=Google+Developer+Student+Clubs+TMSL">
     </a>
-<h1 align="center">The Algorithms Project 
+<h1 align="center">Project Algorithms
    <h6></h6>
    <a href="https://github.com/GDSC-TMSL/TheAlgorithmsProject">
    <img align=center width=100% src="https://readme-typing-svg.herokuapp.com?font=Sora&color=%2336BCF7&size=35&center=true&vCenter=true&width=600%&lines=Stacks;Priority+Queues;Binary+Trees;Hashing;Heaps;Dynamic+Programming;LeetCode;CodeChef;Codeforces;GeeksForGeeks;Contribute+Today+!!!" />
