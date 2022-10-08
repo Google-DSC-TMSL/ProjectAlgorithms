@@ -22,7 +22,7 @@
 | House Robber II |  [LeetCode](https://leetcode.com/problems/house-robber-ii/)  | [Youtube](https://www.youtube.com/watch?v=3WaxQMELSkw) | [Java](./codes/java/HouseRobberII.java) |
 | Minimum Swaps To Make Sequences Increasing |  [LeetCode](https://leetcode.com/problems/minimum-swaps-to-make-sequences-increasing/)  | [Youtube](https://www.youtube.com/watch?v=IeT9Qz_vqHo) | [Java](./codes/java/minimumswapstomakesequencesincreasing.java)<br> [C++](./codes/cpp/minimumswapstomakesequencesincreasing.cpp) |
 | Find Kth Bit in Nth Binary String |  [LeetCode](https://leetcode.com/problems/find-kth-bit-in-nth-binary-string/) | [Youtube](https://www.youtube.com/watch?v=34QYE5HAFy4) | [Java](./codes/java/KthBitNthBinaryString.java)
-
+Generate Parentheses|[LeetCode](https://leetcode.com/problems/generate-parentheses/)| [YouTube](https://www.youtube.com/watch?v=eyCj_u3PoJE&t=5s)|[C++](https://github.com/ShreemoyeeMukherjee/ProjectAlgorithms/blob/main/codes/cpp/Generate%20Parentheses)
 <h2><h2><hr>
 
 <h1 align="center">
