@@ -3,7 +3,7 @@
     <img width=5% height=5% src="https://avatars.githubusercontent.com/u/112573688?s=200&v=4"/>
 </a>
 <a href="https://github.com/GDSC-TMSL/TheAlgorithmsProject">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Foundry&duration=1&pause=1000&color=E1F74A&center=true&vCenter=true&width=500&lines=Google+Developer+Student+Clubs+TMSL">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Foundry&duration=1&pause=1000&color=E1F74A&center=true&vCenter=true&lines=Google+Developer+Student+Clubs+TMSL">
     </a>
 <h1 align="center">The Algorithms Project 
    <h6></h6>
