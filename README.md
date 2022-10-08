@@ -23,7 +23,7 @@
 | Minimum Swaps To Make Sequences Increasing |  [LeetCode](https://leetcode.com/problems/minimum-swaps-to-make-sequences-increasing/)  | [Youtube](https://www.youtube.com/watch?v=IeT9Qz_vqHo) | [Java](../codes/java/minimumswapstomakesequencesincreasing.java)<br> [C++](../codes/cpp/minimumswapstomakesequencesincreasing.cpp) |
 | Find Kth Bit in Nth Binary String |  [LeetCode](https://leetcode.com/problems/find-kth-bit-in-nth-binary-string/) | [Youtube](https://www.youtube.com/watch?v=34QYE5HAFy4) | [Java](../codes/java/KthBitNthBinaryString.java)
 
-<br><h2><h2><hr>
+<h2><h2><hr>
 
 <h1 align="center">
 
