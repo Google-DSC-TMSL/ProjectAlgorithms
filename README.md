@@ -14,6 +14,9 @@
 
 <hr>
 
+ <!--Edit below-->
+    
+    
 | Problem Name | Link | Approach | Code |
 | ------- | ------- | ---------- | -------- |
 | 3 Sum Closest |  [LeetCode](https://leetcode.com/problems/3sum-closest/)  | [Youtube](https://www.youtube.com/watch?v=qBr2hq4daWE) | [Java](./codes/java/3sumclosest.java) |
@@ -22,6 +25,9 @@
 | House Robber II |  [LeetCode](https://leetcode.com/problems/house-robber-ii/)  | [Youtube](https://www.youtube.com/watch?v=3WaxQMELSkw) | [Java](./codes/java/HouseRobberII.java) |
 | Minimum Swaps To Make Sequences Increasing |  [LeetCode](https://leetcode.com/problems/minimum-swaps-to-make-sequences-increasing/)  | [Youtube](https://www.youtube.com/watch?v=IeT9Qz_vqHo) | [Java](./codes/java/minimumswapstomakesequencesincreasing.java)<br> [C++](./codes/cpp/minimumswapstomakesequencesincreasing.cpp) |
 | Find Kth Bit in Nth Binary String |  [LeetCode](https://leetcode.com/problems/find-kth-bit-in-nth-binary-string/) | [Youtube](https://www.youtube.com/watch?v=34QYE5HAFy4) | [Java](./codes/java/KthBitNthBinaryString.java)
+    
+<!--End here-->
+ 
 
 <h2><h2><hr>
 
