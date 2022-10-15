@@ -1,0 +1,104 @@
+Serialization is converting a data structure or object into a sequence of bits so that it can be stored in a file or memory buffer, or transmitted across a network connection link to be reconstructed later in the same or another computer environment.
+
+Design an algorithm to serialize and deserialize a binary search tree. There is no restriction on how your serialization/deserialization algorithm should work. You need to ensure that a binary search tree can be serialized to a string, and this string can be deserialized to the original tree structure.
+
+The encoded string should be as compact as possible.
+
+ Input: root = [2,1,3]
+Output: [2,1,3]
+/**
+ * Definition for a binary tree node.
+ * struct TreeNode {
+ *     int val;
+ *     TreeNode *left;
+ *     TreeNode *right;
+ *     TreeNode(int x) : val(x), left(NULL), right(NULL) {}
+ * };
+ */
+class Codec {
+public:
+
+    // Encodes a tree to a single string.
+    string serialize(TreeNode* root) {
+        if(root == NULL)
+        {
+            return("");
+        }
+        string s = "";
+        queue<TreeNode*>q;
+        q.push(root);
+        while(q.size()>0)
+        {
+            TreeNode* m = q.front();
+            q.pop();
+            if(m == NULL)
+            {
+                s.append("#,");
+            }
+            else
+            {
+                 s.append(to_string(m->val)+",");
+            }
+            if(m!= NULL)
+            {
+                q.push(m->left);
+                q.push(m->right);
+            }
+        }
+        cout<<s<<endl;
+        return(s);
+        
+        
+    }
+
+    // Decodes your encoded data to tree.
+    TreeNode* deserialize(string data) {
+        if(data.size()== 0)
+        {
+            return(NULL);
+        }
+        stringstream s(data);
+        string str;
+        queue<TreeNode*>q;
+        getline(s,str,',');
+        TreeNode* m = new TreeNode(stoi(str));
+        q.push(m);
+        while(q.size()>0)
+        {
+            
+            TreeNode* n =q.front();
+            q.pop();
+            getline(s,str,',');
+            if(str == "#")
+             {
+                n->left = NULL;
+            }
+            else
+            {
+               TreeNode* n1 = new TreeNode(stoi(str));
+                n->left = n1;
+                q.push(n1);
+            }
+            getline(s,str,',');
+            if(str == "#")
+            {
+                n->right = NULL;
+                
+            }
+            else
+            {
+                TreeNode* n2 = new TreeNode(stoi(str));
+                n->right = n2;
+                q.push(n2);
+            }
+        }
+        return(m);
+    }
+};
+            
+            
+// Codec* ser = new Codec();
+// Codec* deser = new Codec();
+// string tree = ser->serialize(root);
+// TreeNode* ans = deser->deserialize(tree);
+// return ans;
