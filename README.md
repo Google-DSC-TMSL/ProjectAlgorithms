@@ -33,8 +33,9 @@
 <!--End here-->
 <h2><h2><hr>
     Some free Youtube Resources to Learn
+    <br>
 | Topic | Link |
-| ------- | ------- | 
+|:------- :|:-------:| 
 | [Arrays](https://www.youtube.com/watch?v=n60Dn0UsbEk) | [Practice_Arrays](https://www.geeksforgeeks.org/sde-sheet-a-complete-guide-for-sde-preparation/#Arrays) |
 | [Searching_and_Sorting](https://www.youtube.com/playlist?list=PLDzeHZWIZsTp4pb_WBRahP1tnipLuX9qM) | [Practice_Searching/Sorting](https://www.geeksforgeeks.org/sde-sheet-a-complete-guide-for-sde-preparation/#SnS) |
 | [Hashing](https://www.youtube.com/playlist?list=PLqM7alHXFySGwXaessYMemAnITqlZdZVE) | [Practice_Hashing](https://www.youtube.com/playlist?list=PLqM7alHXFySGwXaessYMemAnITqlZdZVE) |
