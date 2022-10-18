@@ -31,7 +31,26 @@
 | Construct Binary Search Tree from Preorder Traversal | [LeetCode](https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal/) | [YouTube](https://www.youtube.com/watch?v=UmJT3j26t1I&t=692s) | [C++](https://github.com/ShreemoyeeMukherjee/ProjectAlgorithms/blob/ShreemoyeeMukherjee-patch-2/codes/cpp/Construct%20Binary%20Search%20Tree%20from%20Preorder%20Traversal) |    
     
 <!--End here-->
+
+
+
 <h2><h2><hr>
+    
+## Some Free Online Tutorials
+
+ - [Arrays](https://www.youtube.com/watch?v=n60Dn0UsbEk)
+ - [Searching and Sorting](https://www.youtube.com/playlist?list=PLDzeHZWIZsTp4pb_WBRahP1tnipLuX9qM)
+ - [Hashing](https://www.youtube.com/playlist?list=PLqM7alHXFySGwXaessYMemAnITqlZdZVE)
+ - [Strings](https://www.youtube.com/watch?v=Wdjr6uoZ0e0&t=16s)
+ - [Recursion and Backtracking](https://www.youtube.com/playlist?list=PLgUwDviBIf0rGlzIn_7rsaR2FQ5e6ZOL9)
+ - [Bit Manipulation](https://www.youtube.com/watch?v=5rtVTYAk9KQ)
+ - [Linked List](https://www.youtube.com/watch?v=q8gdBn9RPeI&t=2470s)
+ - [Stack and Queues](https://www.youtube.com/playlist?list=PLgUwDviBIf0oSO572kQ7KCSvCUh1AdILj)
+ - [Dynamic Programming](https://www.youtube.com/playlist?list=PLgUwDviBIf0qUlt5H_kiKYaNSqJ81PMMY)
+
+
+    <h2><h2><hr>
+
 
 <h1 align="center">
 
