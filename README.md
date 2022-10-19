@@ -49,9 +49,20 @@
  - [Dynamic Programming](https://www.youtube.com/playlist?list=PLgUwDviBIf0qUlt5H_kiKYaNSqJ81PMMY)
 
 
-    <h2><h2><hr>
+<h2><h2><hr>
+        
+## Some Reference Books PDFs
 
+- [Algorithms](http://dsp-book.narod.ru/Algorithms.pdf)-*Robert Sedgewick*
+- [Introduction to Algorithms](https://sd.blackball.lv/library/Introduction_to_Algorithms_Third_Edition_(2009).pdf)-*Thomas H. Cormen,Charles E. Leiserson,Ronald L. Rivest,Clifford Stein*
+- [Data Structures and Algorithm made easy](https://www.pdfdrive.com/download.pdf?id=158226594&h=d9a09e7e092770b490569037e38267ec&u=cache&ext=pdf)-*Narasimha Karumanchi*
+- [Data Structures and Algorithms in Java](https://cin.ufpe.br/~grm/downloads/Data_Structures_and_Algorithms_in_Java.pdf)-*Robert Lafore*
+- [Advanced Data Structures](https://doc.lagout.org/Others/Data%20Structures/Advanced%20Data%20Structures%20%5BBrass%202008-09-08%5D.pdf)-*Peter Brass*
+- [Grokking Algorithms](https://edu.anarcho-copy.org/Algorithm/grokking-algorithms-illustrated-programmers-curious.pdf)-*Aditya Y. Bhargava*
+- [Problem Solving with Algorithms and Data Structures](https://www.cs.auckland.ac.nz/compsci105s1c/resources/ProblemSolvingwithAlgorithmsandDataStructures.pdf)-*Brad Miller,David Ranum*
 
+<h2><h2><hr>
+            
 <h1 align="center">
 
    <a href="CONTRIBUTING.md">
