@@ -34,6 +34,7 @@
 | Group Anagrams | [LeetCode](https://leetcode.com/problems/group-anagrams/) | [YouTube](https://www.youtube.com/watch?v=ptgykfAEax8) | [Java](./codes/java/GroupAnagramsProg.java) |    
 | Binary Tree Right Side View | [LeetCode](https://leetcode.com/problems/binary-tree-right-side-view/) | [YouTube](https://www.youtube.com/watch?v=jCqIr_tBLKs&t=390s) | [C++](./codes/cpp/BinaryTreeRightSideViewProg.cpp) |  
 | Kadane's Algorithm | [GFG](https://practice.geeksforgeeks.org/problems/kadanes-algorithm-1587115620/1?page=1&company[]=Google&curated[]=7&sortBy=submissions) | [YouTube](https://www.youtube.com/watch?v=w4W6yya1PIc) | [Python](./codes/python/KadaneAlgo.py) |    
+| Implementing Dijkstra Algorithm | [GFG](https://practice.geeksforgeeks.org/problems/implementing-dijkstra-set-1-adjacency-matrix/1) | [YouTube](https://www.youtube.com/watch?v=SQ-pXKsBBz8) | [Python](./codes/python/DijkstraAlgo.py) |
 
 <!--End here-->
 
