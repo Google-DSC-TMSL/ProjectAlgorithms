@@ -15,7 +15,7 @@ class Solution:
                     stack.append([i[0],w+i[1]])
         return dist
 
-
+# Aditya Seth
 import atexit
 import io
 import sys
