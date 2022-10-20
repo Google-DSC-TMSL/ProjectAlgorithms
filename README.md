@@ -28,7 +28,10 @@
 | Set Matrix Zeros | [LeetCode](https://leetcode.com/problems/set-matrix-zeroes/) | [Youtube](https://www.youtube.com/watch?v=M65xBewcqcI) | [Java](./codes/java/setmatrixzeros.java) |
 | Generate Parentheses | [LeetCode](https://leetcode.com/problems/generate-parentheses/) | [YouTube](https://www.youtube.com/watch?v=eyCj_u3PoJE&t=5s) | [C++](https://github.com/ShreemoyeeMukherjee/ProjectAlgorithms/blob/main/codes/cpp/Generate%20Parentheses) |
 | Serialize and Deserialize BST | [Leetcode](https://leetcode.com/problems/serialize-and-deserialize-bst/) | [YouTube](https://www.youtube.com/watch?v=-YbXySKJsX8&t=613s)|[C++](https://github.com/ShreemoyeeMukherjee/ProjectAlgorithms/blob/ShreemoyeeMukherjee-patch-2/Serialize%20and%20Deserialize%20BST) |
-| Construct Binary Search Tree from Preorder Traversal | [LeetCode](https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal/) | [YouTube](https://www.youtube.com/watch?v=UmJT3j26t1I&t=692s) | [C++](https://github.com/ShreemoyeeMukherjee/ProjectAlgorithms/blob/ShreemoyeeMukherjee-patch-2/codes/cpp/Construct%20Binary%20Search%20Tree%20from%20Preorder%20Traversal) |    
+| Construct Binary Search Tree from Preorder Traversal | [LeetCode](https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal/) | [YouTube](https://www.youtube.com/watch?v=UmJT3j26t1I&t=692s) | [C++](https://github.com/ShreemoyeeMukherjee/ProjectAlgorithms/blob/ShreemoyeeMukherjee-patch-2/codes/cpp/Construct%20Binary%20Search%20Tree%20from%20Preorder%20Traversal) |   
+| Container With Most Water | [LeetCode](https://leetcode.com/problems/container-with-most-water/) | [YouTube](https://www.youtube.com/watch?v=ZHQg07n_tbg) | [Java](./codes/java/containerwithmostwater.java) |  
+| Zigzag Conversion | [LeetCode](https://leetcode.com/problems/zigzag-conversion/) | [YouTube](https://www.youtube.com/watch?v=pEku6cp_J80) | [Java](./codes/java/zigzagconversion.java) |  
+| Integer to Roman | [LeetCode](https://leetcode.com/problems/integer-to-roman/) | [YouTube](https://www.youtube.com/watch?v=f_F9ItFyiEg) | [Java](./codes/java/integertoroman.java) |  
     
 <!--End here-->
 
