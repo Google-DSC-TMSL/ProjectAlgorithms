@@ -35,7 +35,9 @@
 | Binary Tree Right Side View | [LeetCode](https://leetcode.com/problems/binary-tree-right-side-view/) | [YouTube](https://www.youtube.com/watch?v=jCqIr_tBLKs&t=390s) | [C++](./codes/cpp/BinaryTreeRightSideViewProg.cpp) |  
 | Kadane's Algorithm | [GFG](https://practice.geeksforgeeks.org/problems/kadanes-algorithm-1587115620/1?page=1&company[]=Google&curated[]=7&sortBy=submissions) | [YouTube](https://www.youtube.com/watch?v=w4W6yya1PIc) | [Python](./codes/python/KadaneAlgo.py) |    
 | Implementing Dijkstra Algorithm | [GFG](https://practice.geeksforgeeks.org/problems/implementing-dijkstra-set-1-adjacency-matrix/1) | [YouTube](https://www.youtube.com/watch?v=SQ-pXKsBBz8) | [Python](./codes/python/DijkstraAlgo.py) |
-
+| Container With Most Water | [LeetCode](https://leetcode.com/problems/container-with-most-water/) | [YouTube](https://www.youtube.com/watch?v=ZHQg07n_tbg) | [Java](./codes/java/containerwithmostwater.java) |  
+| Zigzag Conversion | [LeetCode](https://leetcode.com/problems/zigzag-conversion/) | [YouTube](https://www.youtube.com/watch?v=pEku6cp_J80) | [Java](./codes/java/zigzagconversion.java) |  
+| Integer to Roman | [LeetCode](https://leetcode.com/problems/integer-to-roman/) | [YouTube](https://www.youtube.com/watch?v=f_F9ItFyiEg) | [Java](./codes/java/integertoroman.java) |
 <!--End here-->
 
 
