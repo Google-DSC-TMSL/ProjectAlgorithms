@@ -14,8 +14,10 @@
 
 <hr>
 
- <!--Edit below-->
-    
+<h2>   
+
+<!--Edit below-->
+
     
 | Problem Name | Link | Approach | Code |
 | ------- | ------- | ---------- | -------- |
@@ -38,12 +40,15 @@
 | Container With Most Water | [LeetCode](https://leetcode.com/problems/container-with-most-water/) | [YouTube](https://www.youtube.com/watch?v=ZHQg07n_tbg) | [Java](./codes/java/containerwithmostwater.java) |  
 | Zigzag Conversion | [LeetCode](https://leetcode.com/problems/zigzag-conversion/) | [YouTube](https://www.youtube.com/watch?v=pEku6cp_J80) | [Java](./codes/java/zigzagconversion.java) |  
 | Integer to Roman | [LeetCode](https://leetcode.com/problems/integer-to-roman/) | [YouTube](https://www.youtube.com/watch?v=f_F9ItFyiEg) | [Java](./codes/java/integertoroman.java) |
+
 <!--End here-->
 
+</h2>
 
+<hr>
 
-<h2><h2><hr>
-    
+<div align=left>
+
 ## Some Free Online Tutorials
 
  - [Arrays](https://www.youtube.com/watch?v=n60Dn0UsbEk)
@@ -55,6 +60,7 @@
  - [Linked List](https://www.youtube.com/watch?v=q8gdBn9RPeI&t=2470s)
  - [Stack and Queues](https://www.youtube.com/playlist?list=PLgUwDviBIf0oSO572kQ7KCSvCUh1AdILj)
  - [Dynamic Programming](https://www.youtube.com/playlist?list=PLgUwDviBIf0qUlt5H_kiKYaNSqJ81PMMY)
+
 
 
 <h2><h2><hr>
@@ -69,6 +75,8 @@
 - [Grokking Algorithms](https://edu.anarcho-copy.org/Algorithm/grokking-algorithms-illustrated-programmers-curious.pdf)-*Aditya Y. Bhargava*
 - [Problem Solving with Algorithms and Data Structures](https://www.cs.auckland.ac.nz/compsci105s1c/resources/ProblemSolvingwithAlgorithmsandDataStructures.pdf)-*Brad Miller,David Ranum*
 
+</div>
+
 <h2><h2><hr>
             
 <h1 align="center">
@@ -77,15 +85,5 @@
    <img align=center width=100% src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=500&color=2CF7D4&center=true&vCenter=true&multiline=true&width=435&height=55&lines=Click+Here+to+Contribute;Read+CONTRIBUTING.md" />
    </a>
 </h1>
-
-## Shoutout to our awesome contributors 
-
-<br>
-
-<a href="https://github.com/GDSC-TMSL/ProjectAlgorithms/">
-  <img src="https://contrib.rocks/image?repo=GDSC-TMSL/ProjectAlgorithms" />
-</a>
-
-<br><h2><h2><hr>
 
 </div>
