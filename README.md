@@ -28,11 +28,16 @@
 | Set Matrix Zeros | [LeetCode](https://leetcode.com/problems/set-matrix-zeroes/) | [Youtube](https://www.youtube.com/watch?v=M65xBewcqcI) | [Java](./codes/java/setmatrixzeros.java) |
 | Generate Parentheses | [LeetCode](https://leetcode.com/problems/generate-parentheses/) | [YouTube](https://www.youtube.com/watch?v=eyCj_u3PoJE&t=5s) | [C++](https://github.com/ShreemoyeeMukherjee/ProjectAlgorithms/blob/main/codes/cpp/Generate%20Parentheses) |
 | Serialize and Deserialize BST | [Leetcode](https://leetcode.com/problems/serialize-and-deserialize-bst/) | [YouTube](https://www.youtube.com/watch?v=-YbXySKJsX8&t=613s)|[C++](https://github.com/ShreemoyeeMukherjee/ProjectAlgorithms/blob/ShreemoyeeMukherjee-patch-2/Serialize%20and%20Deserialize%20BST) |
-| Construct Binary Search Tree from Preorder Traversal | [LeetCode](https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal/) | [YouTube](https://www.youtube.com/watch?v=UmJT3j26t1I&t=692s) | [C++](https://github.com/ShreemoyeeMukherjee/ProjectAlgorithms/blob/ShreemoyeeMukherjee-patch-2/codes/cpp/Construct%20Binary%20Search%20Tree%20from%20Preorder%20Traversal) |   
+| Construct Binary Search Tree from Preorder Traversal | [LeetCode](https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal/) | [YouTube](https://www.youtube.com/watch?v=UmJT3j26t1I&t=692s) | [C++](https://github.com/ShreemoyeeMukherjee/ProjectAlgorithms/blob/ShreemoyeeMukherjee-patch-2/codes/cpp/Construct%20Binary%20Search%20Tree%20from%20Preorder%20Traversal) |    
+| First Unique Character in a String | [LeetCode](https://leetcode.com/problems/first-unique-character-in-a-string/) | [YouTube](https://www.youtube.com/watch?v=St47WCbQa9M) | [Java](./codes/java/FirstUniqueCharacterinaString.java) |    
+| Interleaving Strings | [LeetCode](https://leetcode.com/problems/interleaving-string/) | [YouTube](https://www.youtube.com/watch?v=3Rw3p9LrgvE) | [Python](./codes/python/InterleavingStringsProg.py) |    
+| Group Anagrams | [LeetCode](https://leetcode.com/problems/group-anagrams/) | [YouTube](https://www.youtube.com/watch?v=ptgykfAEax8) | [Java](./codes/java/GroupAnagramsProg.java) |    
+| Binary Tree Right Side View | [LeetCode](https://leetcode.com/problems/binary-tree-right-side-view/) | [YouTube](https://www.youtube.com/watch?v=jCqIr_tBLKs&t=390s) | [C++](./codes/cpp/BinaryTreeRightSideViewProg.cpp) |  
+| Kadane's Algorithm | [GFG](https://practice.geeksforgeeks.org/problems/kadanes-algorithm-1587115620/1?page=1&company[]=Google&curated[]=7&sortBy=submissions) | [YouTube](https://www.youtube.com/watch?v=w4W6yya1PIc) | [Python](./codes/python/KadaneAlgo.py) |    
+| Implementing Dijkstra Algorithm | [GFG](https://practice.geeksforgeeks.org/problems/implementing-dijkstra-set-1-adjacency-matrix/1) | [YouTube](https://www.youtube.com/watch?v=SQ-pXKsBBz8) | [Python](./codes/python/DijkstraAlgo.py) |
 | Container With Most Water | [LeetCode](https://leetcode.com/problems/container-with-most-water/) | [YouTube](https://www.youtube.com/watch?v=ZHQg07n_tbg) | [Java](./codes/java/containerwithmostwater.java) |  
 | Zigzag Conversion | [LeetCode](https://leetcode.com/problems/zigzag-conversion/) | [YouTube](https://www.youtube.com/watch?v=pEku6cp_J80) | [Java](./codes/java/zigzagconversion.java) |  
-| Integer to Roman | [LeetCode](https://leetcode.com/problems/integer-to-roman/) | [YouTube](https://www.youtube.com/watch?v=f_F9ItFyiEg) | [Java](./codes/java/integertoroman.java) |  
-    
+| Integer to Roman | [LeetCode](https://leetcode.com/problems/integer-to-roman/) | [YouTube](https://www.youtube.com/watch?v=f_F9ItFyiEg) | [Java](./codes/java/integertoroman.java) |
 <!--End here-->
 
 
@@ -52,9 +57,20 @@
  - [Dynamic Programming](https://www.youtube.com/playlist?list=PLgUwDviBIf0qUlt5H_kiKYaNSqJ81PMMY)
 
 
-    <h2><h2><hr>
+<h2><h2><hr>
+        
+## Some Reference Books PDFs
 
+- [Algorithms](http://dsp-book.narod.ru/Algorithms.pdf)-*Robert Sedgewick*
+- [Introduction to Algorithms](https://sd.blackball.lv/library/Introduction_to_Algorithms_Third_Edition_(2009).pdf)-*Thomas H. Cormen,Charles E. Leiserson,Ronald L. Rivest,Clifford Stein*
+- [Data Structures and Algorithm made easy](https://www.pdfdrive.com/download.pdf?id=158226594&h=d9a09e7e092770b490569037e38267ec&u=cache&ext=pdf)-*Narasimha Karumanchi*
+- [Data Structures and Algorithms in Java](https://cin.ufpe.br/~grm/downloads/Data_Structures_and_Algorithms_in_Java.pdf)-*Robert Lafore*
+- [Advanced Data Structures](https://doc.lagout.org/Others/Data%20Structures/Advanced%20Data%20Structures%20%5BBrass%202008-09-08%5D.pdf)-*Peter Brass*
+- [Grokking Algorithms](https://edu.anarcho-copy.org/Algorithm/grokking-algorithms-illustrated-programmers-curious.pdf)-*Aditya Y. Bhargava*
+- [Problem Solving with Algorithms and Data Structures](https://www.cs.auckland.ac.nz/compsci105s1c/resources/ProblemSolvingwithAlgorithmsandDataStructures.pdf)-*Brad Miller,David Ranum*
 
+<h2><h2><hr>
+            
 <h1 align="center">
 
    <a href="CONTRIBUTING.md">
