@@ -40,6 +40,8 @@
 | Container With Most Water | [LeetCode](https://leetcode.com/problems/container-with-most-water/) | [YouTube](https://www.youtube.com/watch?v=ZHQg07n_tbg) | [Java](./codes/java/containerwithmostwater.java) |  
 | Zigzag Conversion | [LeetCode](https://leetcode.com/problems/zigzag-conversion/) | [YouTube](https://www.youtube.com/watch?v=pEku6cp_J80) | [Java](./codes/java/zigzagconversion.java) |  
 | Integer to Roman | [LeetCode](https://leetcode.com/problems/integer-to-roman/) | [YouTube](https://www.youtube.com/watch?v=f_F9ItFyiEg) | [Java](./codes/java/integertoroman.java) |
+| Palindromic Partitioning | [GFG](https://practice.geeksforgeeks.org/problems/palindromic-patitioning4845/1?page=1&difficulty[]=2&company[]=Google&curated[]=4&sortBy=submissions) | [YouTube](https://www.youtube.com/watch?v=VOiNexeScLU) | [Python](./codes/python/Palind_Part.py) |
+| Alien Dictionary | [GFG](https://practice.geeksforgeeks.org/problems/alien-dictionary/1?page=1&difficulty[]=2&company[]=Google&sortBy=submissions) | [YouTube](https://www.youtube.com/watch?v=U3N_je7tWAs) | [Python](./codes/python/Alien_Dic.py) |
 
 <!--End here-->
 
@@ -60,6 +62,8 @@
  - [Linked List](https://www.youtube.com/watch?v=q8gdBn9RPeI&t=2470s)
  - [Stack and Queues](https://www.youtube.com/playlist?list=PLgUwDviBIf0oSO572kQ7KCSvCUh1AdILj)
  - [Dynamic Programming](https://www.youtube.com/playlist?list=PLgUwDviBIf0qUlt5H_kiKYaNSqJ81PMMY)
+ - [Data Structures and Algorithms](https://www.youtube.com/playlist?list=PLDzeHZWIZsTryvtXdMr6rPh4IDexB5NIA)
+ 
 
 
 
