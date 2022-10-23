@@ -42,6 +42,8 @@
 | Integer to Roman | [LeetCode](https://leetcode.com/problems/integer-to-roman/) | [YouTube](https://www.youtube.com/watch?v=f_F9ItFyiEg) | [Java](./codes/java/integertoroman.java) |
 | Palindromic Partitioning | [GFG](https://practice.geeksforgeeks.org/problems/palindromic-patitioning4845/1?page=1&difficulty[]=2&company[]=Google&curated[]=4&sortBy=submissions) | [YouTube](https://www.youtube.com/watch?v=VOiNexeScLU) | [Python](./codes/python/Palind_Part.py) |
 | Alien Dictionary | [GFG](https://practice.geeksforgeeks.org/problems/alien-dictionary/1?page=1&difficulty[]=2&company[]=Google&sortBy=submissions) | [YouTube](https://www.youtube.com/watch?v=U3N_je7tWAs) | [Python](./codes/python/Alien_Dic.py) |
+| Sum of k smallest elements in BST| [GFG](https://www.geeksforgeeks.org/sum-k-smallest-elements-bst/) | [YouTube](https://www.youtube.com/watch?v=S02iWYlmyH4) | [Python](./codes/python/Sum_of_k_smallest_elements_in_BST.py) |
+
 
 <!--End here-->
 
