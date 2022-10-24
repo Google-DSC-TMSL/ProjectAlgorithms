@@ -1,39 +1,39 @@
-class Solution:
-    def dijkstra(self, V, adj, S):
-        stack=[]
-        dist=[float("inf") for i in range(V)]
-        stack.append([S,0])
-        visited=[False for i in range(V)]
-        # dist[S]=0
-        while len(stack)!=0:
-            node,w=stack.pop(0)
-            visited[node]=True
-            if dist[node]>w:
-                dist[node]=w
-            for i in adj[node]:
-                if w+i[1]<dist[i[0]]:
-                    stack.append([i[0],w+i[1]])
-        return dist
-
-# Aditya Seth
-import atexit
-import io
-import sys
-
-
-if __name__ == '__main__':
-    test_cases = int(input())
-    for cases in range(test_cases):
-        V,E = map(int,input().strip().split())
-        adj = [[] for i in range(V)]
-        for i in range(E):
-            u,v,w = map(int,input().strip().split())
-            adj[u].append([v,w])
-            adj[v].append([u,w])
-        S=int(input())
-        ob = Solution()
-        
-        res = ob.dijkstra(V,adj,S)
-        for i in res:
-            print(i,end=" ")
-        print()
+def dijkstra(current, nodes, distances):
+    # These are all the nodes which have not been visited yet
+    unvisited = {node: None for node in nodes}
+    # It will store the shortest distance from one node to another
+    visited = {}
+    # It will store the predecessors of the nodes
+    currentDistance = 0
+    unvisited[current] = currentDistance
+    # Running the loop while all the nodes have been visited
+    while True:
+        # iterating through all the unvisited node
+        for neighbour, distance in distances[current].items():
+            # Iterating through the connected nodes of current_node (for 
+            # example, a is connected with b and c having values 10 and 3
+            # respectively) and the weight of the edges
+            if neighbour not in unvisited: continue
+            newDistance = currentDistance + distance
+            if unvisited[neighbour] is None or unvisited[neighbour] > newDistance:
+                unvisited[neighbour] = newDistance
+        # Till now the shortest distance between the source node and target node 
+        # has been found. Set the current node as the target node
+        visited[current] = currentDistance
+        del unvisited[current]
+        if not unvisited: break
+        candidates = [node for node in unvisited.items() if node[1]]
+        print(sorted(candidates, key = lambda x: x[1]))
+        current, currentDistance = sorted(candidates, key = lambda x: x[1])[0]
+    return visited
+  
+nodes = ('A', 'B', 'C', 'D', 'E')
+distances = {
+    'A': {'B': 5, 'C': 2},
+    'B': {'C': 2, 'D': 3},
+    'C': {'B': 3, 'D': 7},
+    'D': {'E': 7},
+    'E': {'D': 9}}
+current = 'A'
+  
+print(dijkstra(current, nodes, distances))
