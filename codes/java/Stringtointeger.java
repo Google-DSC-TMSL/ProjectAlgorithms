@@ -1,35 +1,15 @@
 import java.io.*;
-public class Stringtointeger {
-        // Function to convert String to integer
-        public static int convert(String str)
-        {
-            int val = 0;
-            System.out.println("String = " + str);
-
-            // Convert the String
-            try {
-                val = Integer.parseInt(str);
-            }
-            catch (NumberFormatException e) {
-
-                // This is thrown when the String
-                // contains characters other than digits
-                System.out.println("Invalid String");
-            }
-            return val;
-        }
-
-        // Driver code
-        public static void main(String[] args)
-        {
-
-            String str = "1234";
-            int val = convert(str);
-            System.out.println("Integer value = " + val);
-            System.out.println();
-
-            str = "123s";
-            val = convert(str);
-            System.out.println("Integer value = " + val);
-        }
-    }
+public class ConvertStringToInteger {  
+    public static void main(String[] args) {  
+        //1st way  
+        String str1 = "5";  
+        int result = Integer.parseInt(str1); // Using Integer.parsrInt()  
+        System.out.println(result);  
+   
+        //2nd way  
+        String str2 = "123";  
+        Integer result2 = Integer.valueOf(str2); // Using Integer.valueOf()  
+        System.out.println(result2);  
+        
+    }  
+}  
