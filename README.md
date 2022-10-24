@@ -1,14 +1,14 @@
 <div align="center">
-<a href="https://github.com/GDSC-TMSL/ProjectAlgorithms">
+<a  href="https://github.com/GDSC-TMSL/ProjectAlgorithms">
     <img width=5% height=5% src="https://avatars.githubusercontent.com/u/112573688?s=200&v=4"/>
 </a>
 <a href="https://github.com/GDSC-TMSL/ProjectAlgorithms">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Foundry&duration=1&pause=1000&color=E1F74A&center=true&vCenter=true&lines=Google+Developer+Student+Clubs+TMSL">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Foundry&duration=1&width=500&pause=1000&color=E1F74A&center=true&vCenter=true&lines=Google+Developer+Student+Clubs+TMSL">
     </a>
 <h1 align="center">Project Algorithms - A Problem Solver's Paradise
    <h6></h6>
    <a href="https://github.com/GDSC-TMSL/ProjectAlgorithms">
-   <img align=center width=100% src="https://readme-typing-svg.herokuapp.com?font=Sora&color=%2336BCF7&size=35&center=true&vCenter=true&width=600%&lines=Stacks;Priority+Queues;Binary+Trees;Hashing;Heaps;Dynamic+Programming;LeetCode;CodeChef;Codeforces;GeeksForGeeks;Contribute+Today+!!!" />
+   <img align=center width=100% src="https://readme-typing-svg.herokuapp.com?font=Sora&color=%2336BCF7&size=35&center=true&vCenter=true&width=800%&lines=Stacks;Priority+Queues;Binary+Trees;Hashing;Heaps;Dynamic+Programming;LeetCode;CodeChef;Codeforces;GeeksForGeeks;Contribute+Today+!!!" />
    </a>
 </h1>
 
@@ -42,8 +42,10 @@
 | Integer to Roman | [LeetCode](https://leetcode.com/problems/integer-to-roman/) | [YouTube](https://www.youtube.com/watch?v=f_F9ItFyiEg) | [Java](./codes/java/integertoroman.java) |
 | Palindromic Partitioning | [GFG](https://practice.geeksforgeeks.org/problems/palindromic-patitioning4845/1?page=1&difficulty[]=2&company[]=Google&curated[]=4&sortBy=submissions) | [YouTube](https://www.youtube.com/watch?v=VOiNexeScLU) | [Python](./codes/python/Palind_Part.py) |
 | Alien Dictionary | [GFG](https://practice.geeksforgeeks.org/problems/alien-dictionary/1?page=1&difficulty[]=2&company[]=Google&sortBy=submissions) | [YouTube](https://www.youtube.com/watch?v=U3N_je7tWAs) | [Python](./codes/python/Alien_Dic.py) |
-| Sum of k smallest elements in BST| [GFG](https://www.geeksforgeeks.org/sum-k-smallest-elements-bst/) | [YouTube](https://www.youtube.com/watch?v=S02iWYlmyH4) | [Python](./codes/python/Sum_of_k_smallest_elements_in_BST.py) |
-
+| String To Integer | [GFG](https://www.geeksforgeeks.org/how-to-convert-a-string-to-an-int-in-java/) | [YouTube](https://www.youtube.com/watch?v=Pnaqn6GOyzU) | [Java](./codes/java/Stringtointeger.java) |
+|maximum-length-of-a-concatenated-string-with-unique-characters | [LeetCode](https://leetcode.com/problems/maximum-length-of-a-concatenated-string-with-unique-characters/) | [YouTube](https://www.youtube.com/watch?v=d4SPuvkaeoo) | [Java](./codes/java/maximum-length-of-a-concatenated-string-with-unique-characters.java) |
+>>>>>>> 6f61b6ae7cb36c4c8b9ac330bc7c08cfa0c36296
+|Sum of k smallest elements in BST| [GFG](https://www.geeksforgeeks.org/sum-k-smallest-elements-bst/) | [YouTube](https://www.youtube.com/watch?v=S02iWYlmyH4&t=3s) | [Python](./codes/python/Sum_of_k_smallest_elements_in_BST.py) | 
 
 <!--End here-->
 
