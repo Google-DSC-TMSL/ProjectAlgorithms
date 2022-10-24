@@ -43,6 +43,7 @@
 | Palindromic Partitioning | [GFG](https://practice.geeksforgeeks.org/problems/palindromic-patitioning4845/1?page=1&difficulty[]=2&company[]=Google&curated[]=4&sortBy=submissions) | [YouTube](https://www.youtube.com/watch?v=VOiNexeScLU) | [Python](./codes/python/Palind_Part.py) |
 | Alien Dictionary | [GFG](https://practice.geeksforgeeks.org/problems/alien-dictionary/1?page=1&difficulty[]=2&company[]=Google&sortBy=submissions) | [YouTube](https://www.youtube.com/watch?v=U3N_je7tWAs) | [Python](./codes/python/Alien_Dic.py) |
 | String To Integer | [GFG](https://www.geeksforgeeks.org/how-to-convert-a-string-to-an-int-in-java/) | [YouTube](https://www.youtube.com/watch?v=Pnaqn6GOyzU) | [Java](./codes/java/Stringtointeger.java) |
+| String To Integer | [LeetCode](https://leetcode.com/problems/maximum-length-of-a-concatenated-string-with-unique-characters/) | [YouTube](https://www.youtube.com/watch?v=d4SPuvkaeoo) | [Java](./codes/java/maximum-length-of-a-concatenated-string-with-unique-characters.java) |
 
 <!--End here-->
 
