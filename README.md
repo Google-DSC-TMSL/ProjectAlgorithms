@@ -42,7 +42,7 @@
 | Integer to Roman | [LeetCode](https://leetcode.com/problems/integer-to-roman/) | [YouTube](https://www.youtube.com/watch?v=f_F9ItFyiEg) | [Java](./codes/java/integertoroman.java) |
 | Palindromic Partitioning | [GFG](https://practice.geeksforgeeks.org/problems/palindromic-patitioning4845/1?page=1&difficulty[]=2&company[]=Google&curated[]=4&sortBy=submissions) | [YouTube](https://www.youtube.com/watch?v=VOiNexeScLU) | [Python](./codes/python/Palind_Part.py) |
 | Alien Dictionary | [GFG](https://practice.geeksforgeeks.org/problems/alien-dictionary/1?page=1&difficulty[]=2&company[]=Google&sortBy=submissions) | [YouTube](https://www.youtube.com/watch?v=U3N_je7tWAs) | [Python](./codes/python/Alien_Dic.py) |
-| StringToInteger | [GFG](https://www.geeksforgeeks.org/how-to-convert-a-string-to-an-int-in-java/) | [YouTube](https://www.youtube.com/watch?v=Pnaqn6GOyzU) | [Python](./codes/java/Stringtointeger.java) |
+| StringToInteger | [GFG](https://www.geeksforgeeks.org/how-to-convert-a-string-to-an-int-in-java/) | [YouTube](https://www.youtube.com/watch?v=Pnaqn6GOyzU) | [Java](./codes/java/Stringtointeger.java) |
 
 <!--End here-->
 
