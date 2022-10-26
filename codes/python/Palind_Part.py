@@ -1,24 +1,27 @@
 
-class Solution:
-    def palindromicPartition(self, string):
-        # code here
-        a=string
-        cut = [0 for i in range(len(a))]
-        palindrome = [[False for i in range(len(a))] for j in range(len(a))]
-        for i in range(len(a)):
-            minCut = i
-            for j in range(i + 1):
-                if (a[i] == a[j] and (i - j < 2 or palindrome[j + 1][i - 1])):      
-                    palindrome[j][i] = True
-                    minCut = min(minCut,0 if  j == 0 else (cut[j - 1] + 1))
-            cut[i] = minCut;  
-        return cut[len(a) - 1]
-
-# Payel - AIML TMSL
-if __name__ == '__main__':
-    t = int(input())
-    for _ in range (t):
-        string = input()
-        
-        ob = Solution()
-        print(ob.palindromicPartition(string))
+def isPalindrome(x):
+    return x == x[::-1]
+ 
+ 
+def minPalPartion(string, i, j):
+    if i >= j or isPalindrome(string[i:j + 1]):
+        return 0
+    ans = float('inf')
+    for k in range(i, j):
+        count = (
+            1 + minPalPartion(string, i, k)
+            + minPalPartion(string, k + 1, j)
+        )
+        ans = min(ans, count)
+    return ans
+ 
+ 
+def main():
+    string = "ababbbabbababa"
+     print(
+     "Min cuts needed for Palindrome Partitioning is ",
+     minPalPartion(string, 0, len(string) - 1),
+    )
+ 
+if __name__ == "__main__":
+    main()
