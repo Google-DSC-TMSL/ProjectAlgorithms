@@ -1,76 +1,111 @@
+# Time:  O(n)
+# Space: O(|V|+|E|) = O(26 + 26^2) = O(1)
 
-class Solution:
-   
-    def findOrder(self, words, N, K) -> str:
-        indegree = {char:set() for word in words for char in word}
-        for i in range(len(words) - 1):
-            word1, word2 = words[i], words[i+1]
-            minLeng = min(len(word1), len(word2))
-            if len(word1) > len(word2) and word1[:minLeng] == word2[:minLeng]:
+import collections
+
+
+# BFS solution.
+class Solution(object):
+    def alienOrder(self, words):
+        """
+        :type words: List[str]
+        :rtype: str
+        """
+        result, in_degree, out_degree = [], {}, {}
+        zero_in_degree_queue = collections.deque()
+        nodes = set()
+        for word in words:
+            for c in word:
+                nodes.add(c)
+
+        for i in xrange(1, len(words)):
+            if (len(words[i-1]) > len(words[i]) and
+                    words[i-1][:len(words[i])] == words[i]):
                 return ""
-            for j in range(minLeng):
-                if word1[j] != word2[j]:
-                    indegree[word1[j]].add(word2[j])
-                    break
+            self.findEdges(words[i - 1], words[i], in_degree, out_degree)
+
+        for node in nodes:
+            if node not in in_degree:
+                zero_in_degree_queue.append(node)
+
+        while zero_in_degree_queue:
+            precedence = zero_in_degree_queue.popleft()
+            result.append(precedence)
+
+            if precedence in out_degree:
+                for c in out_degree[precedence]:
+                    in_degree[c].discard(precedence)
+                    if not in_degree[c]:
+                        zero_in_degree_queue.append(c)
+
+                del out_degree[precedence]
+
+        if out_degree:
+            return ""
+
+        return "".join(result)
+
+    # Construct the graph.
+    def findEdges(self, word1, word2, in_degree, out_degree):
+        str_len = min(len(word1), len(word2))
+        for i in xrange(str_len):
+            if word1[i] != word2[i]:
+                if word2[i] not in in_degree:
+                    in_degree[word2[i]] = set()
+                if word1[i] not in out_degree:
+                    out_degree[word1[i]] = set()
+                in_degree[word2[i]].add(word1[i])
+                out_degree[word1[i]].add(word2[i])
+                break
+
+
+# DFS solution.
+class Solution2(object):
+    def alienOrder(self, words):
+        """
+        :type words: List[str]
+        :rtype: str
+        """
+        # Find ancestors of each node by DFS.
+        nodes, ancestors = set(), {}
+        for i in xrange(len(words)):
+            for c in words[i]:
+                nodes.add(c)
+        for node in nodes:
+            ancestors[node] = []
+        for i in xrange(1, len(words)):
+            if (len(words[i-1]) > len(words[i]) and
+                    words[i-1][:len(words[i])] == words[i]):
+                return ""
+            self.findEdges(words[i - 1], words[i], ancestors)
+
+        # Output topological order by DFS.
+        result = []
         visited = {}
-        res = []
-        def dfs(c):
-            if c in visited:
-                return visited[c]
-            visited[c] = True
-            for neighbor in indegree[c]:
-                if dfs(neighbor):
-                    return True
-            visited[c] = False
-            res.append(c)
-        for c in indegree:
-            if dfs(c):
+        for node in nodes:
+            if self.topSortDFS(node, node, ancestors, visited, result):
                 return ""
-        res.reverse()
-        return "".join(res)
 
-# Payel - AIML TMSL
+        return "".join(result)
 
-class sort_by_order:
-    def __init__(self,s):
-        self.priority = {}
-        for i in range(len(s)):
-            self.priority[s[i]] = i
-    
-    def transform(self,word):
-        new_word = ''
-        for c in word:
-            new_word += chr( ord('a') + self.priority[c] )
-        return new_word
-    
-    def sort_this_list(self,lst):
-        lst.sort(key = self.transform)
+    # Construct the graph.
+    def findEdges(self, word1, word2, ancestors):
+        min_len = min(len(word1), len(word2))
+        for i in xrange(min_len):
+            if word1[i] != word2[i]:
+                ancestors[word2[i]].append(word1[i])
+                break
 
-if __name__ == '__main__':
-    t=int(input())
-    for _ in range(t):
-        line=input().strip().split()
-        n=int(line[0])
-        k=int(line[1])
-        
-        alien_dict = [x for x in input().strip().split()]
-        duplicate_dict = alien_dict.copy()
-        ob=Solution()
-        order = ob.findOrder(alien_dict,n,k)
-        s = ""
-        for i in range(k):
-            s += chr(97+i)
-        l = list(order)
-        l.sort()
-        l = "".join(l)
-        if s != l:
-            print(0)
-        else:
-            x = sort_by_order(order)
-            x.sort_this_list(duplicate_dict)
-            
-            if duplicate_dict == alien_dict:
-                print(1)
-            else:
-                print(0)
-
+    # Topological sort, return whether there is a cycle.
+    def topSortDFS(self, root, node, ancestors, visited, result):
+        if node not in visited:
+            visited[node] = root
+            for ancestor in ancestors[node]:
+                if self.topSortDFS(root, ancestor, ancestors, visited, result):
+                    return True
+            result.append(node)
+        elif visited[node] == root:
+            # Visited from the same root in the DFS path.
+            # So it is cyclic.
+            return True
+        return False
