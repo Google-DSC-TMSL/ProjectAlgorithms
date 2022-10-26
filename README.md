@@ -45,6 +45,10 @@
 | String To Integer | [GFG](https://www.geeksforgeeks.org/how-to-convert-a-string-to-an-int-in-java/) | [YouTube](https://www.youtube.com/watch?v=Pnaqn6GOyzU) | [Java](./codes/java/Stringtointeger.java) |
 |Maximum Length of a Concatenated String with Unique Characters | [LeetCode](https://leetcode.com/problems/maximum-length-of-a-concatenated-string-with-unique-characters/) | [YouTube](https://www.youtube.com/watch?v=d4SPuvkaeoo) | [Java](./codes/java/maximum-length-of-a-concatenated-string-with-unique-characters.java) |
 |Sum of k smallest elements in BST| [GFG](https://www.geeksforgeeks.org/sum-k-smallest-elements-bst/) | [YouTube](https://www.youtube.com/watch?v=S02iWYlmyH4&t=3s) | [Python](./codes/python/Sum_of_k_smallest_elements_in_BST.py) | 
+| Regular Expression Matching | [LeetCode](https://leetcode.com/problems/regular-expression-matching/) | [YouTube](https://www.youtube.com/watch?v=HAA8mgxlov8) | [Java](./codes/java/RegularExpressionMatching.java) | 
+| Longest Valid Parentheses | [LeetCode](https://leetcode.com/problems/longest-valid-parentheses/) | [YouTube](https://www.youtube.com/watch?v=VdQuwtEd10M) | [Java](./codes/java/LongestValidParentheses.java) |
+| Rotate Image | [LeetCode](https://leetcode.com/problems/rotate-image/) | [YouTube](https://www.youtube.com/watch?v=Y72QeX0Efxw) | [Java](./codes/java/RotateImage.java) |
+| Substring with concatenation of all words | [LeetCode](https://leetcode.com/problems/substring-with-concatenation-of-all-words/) | [YouTube](https://www.youtube.com/watch?v=_MGzsJ0F8lE) | [Java](./codes/java/SubstringWithConcatenationOfAllWords.java) |
 
 <!--End here-->
 
