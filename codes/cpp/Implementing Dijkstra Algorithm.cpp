@@ -17,7 +17,7 @@ vector<int> dijkstra(vector<vector<int>> &vec, int vertices, int edges, int sour
            if(dist[cur]!=INT_MAX && dist[cur]+ node.second< dist[node.first]){
                dist[node.first]=dist[cur]+node.second;
                pq.push(make_pair(node.second,node.first));
-           }
+            }
        }
    }
    return dist;
