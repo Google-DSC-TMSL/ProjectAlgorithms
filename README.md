@@ -28,7 +28,7 @@
 | Minimum Swaps To Make Sequences Increasing |  [LeetCode](https://leetcode.com/problems/minimum-swaps-to-make-sequences-increasing/)  | [Youtube](https://www.youtube.com/watch?v=IeT9Qz_vqHo) | [Java](./codes/java/minimumswapstomakesequencesincreasing.java)<br> [C++](./codes/cpp/minimumswapstomakesequencesincreasing.cpp) |
 | Find Kth Bit in Nth Binary String |  [LeetCode](https://leetcode.com/problems/find-kth-bit-in-nth-binary-string/) | [Youtube](https://www.youtube.com/watch?v=34QYE5HAFy4) | [Java](./codes/java/KthBitNthBinaryString.java)
 | Set Matrix Zeros | [LeetCode](https://leetcode.com/problems/set-matrix-zeroes/) | [Youtube](https://www.youtube.com/watch?v=M65xBewcqcI) | [Java](./codes/java/setmatrixzeros.java) |
-| Generate Parentheses | [LeetCode](https://leetcode.com/problems/generate-parentheses/) | [YouTube](https://www.youtube.com/watch?v=eyCj_u3PoJE&t=5s) | [C++](https://github.com/ShreemoyeeMukherjee/ProjectAlgorithms/blob/main/codes/cpp/Generate%20Parentheses) <br> [Java](codes/java/GenerateParentheses.java)
+| Generate Parentheses | [LeetCode](https://leetcode.com/problems/generate-parentheses/) | [YouTube](https://www.youtube.com/watch?v=4KpSXSIPH2s&t=860s) | [C++](https://github.com/ShreemoyeeMukherjee/ProjectAlgorithms/blob/main/codes/cpp/Generate%20Parentheses) <br> [Java](codes/java/GenerateParentheses.java)
 | Serialize and Deserialize BST | [Leetcode](https://leetcode.com/problems/serialize-and-deserialize-bst/) | [YouTube](https://www.youtube.com/watch?v=-YbXySKJsX8&t=613s)|[C++](https://github.com/ShreemoyeeMukherjee/ProjectAlgorithms/blob/ShreemoyeeMukherjee-patch-2/Serialize%20and%20Deserialize%20BST) |
 | Construct Binary Search Tree from Preorder Traversal | [LeetCode](https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal/) | [YouTube](https://www.youtube.com/watch?v=UmJT3j26t1I&t=692s) | [C++](https://github.com/ShreemoyeeMukherjee/ProjectAlgorithms/blob/ShreemoyeeMukherjee-patch-2/codes/cpp/Construct%20Binary%20Search%20Tree%20from%20Preorder%20Traversal) |    
 | First Unique Character in a String | [LeetCode](https://leetcode.com/problems/first-unique-character-in-a-string/) | [YouTube](https://www.youtube.com/watch?v=St47WCbQa9M) | [Java](./codes/java/FirstUniqueCharacterinaString.java) |    
@@ -61,6 +61,7 @@
 
 ## Some Free Online Tutorials
 
+ - [C++ STL (Most Useful for Competitive Programming)](https://www.youtube.com/watch?v=R5BEcvTVZj0&list=PLauivoElc3gh3RCiQA82MDI-gJfXQQVnn)
  - [Arrays](https://www.youtube.com/watch?v=n60Dn0UsbEk)
  - [Searching and Sorting](https://www.youtube.com/playlist?list=PLDzeHZWIZsTp4pb_WBRahP1tnipLuX9qM)
  - [Hashing](https://www.youtube.com/playlist?list=PLqM7alHXFySGwXaessYMemAnITqlZdZVE)

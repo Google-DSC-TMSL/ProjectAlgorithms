@@ -3,27 +3,37 @@ Input: n = 3
 Output: ["((()))","(()())","(())()","()(())","()()()"]
 class Solution {
 public:
-    vector<string>vec1;
-    void solve(string current1 , int o , int c , int n1)
+
+    void generate(string &s, int open, int close)
     {
-        if(o == n1 && c == n1)
+        if(open == 0 && close == 0)
         {
-            vec1.push_back(current1);
+            v.push_back(s);
             return;
         }
-        if(o<n1)
+        if(open > 0)
         {
-            solve(current1+"(" ,o+1 , c , n1);
+            s.push_back('(');
+            generate(s, open - 1, close);
+            s.pop_back();
         }
-        if(c<o)
+        if(close > 0)
         {
-            solve(current1+")" , o , c+1 , n1);
+            if(open < close)
+            {
+                s.push_back(')');
+                generate(s, open, close - 1);
+                s.pop_back();
+            }
         }
     }
+
+    vector<string> v;
+
     vector<string> generateParenthesis(int n) {
-        string current = "(";
-       solve(current,1, 0 ,n);
-       return(vec1);
-        
+        string s;
+        generate(s, n, n);
+        return v;
     }
+
 };
