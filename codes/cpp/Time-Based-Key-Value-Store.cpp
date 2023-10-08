@@ -47,7 +47,6 @@ public:
         if (it == values.begin()) {
             return "";
         }
-        
         return (it - 1)->first;
     }
     
