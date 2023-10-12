@@ -54,6 +54,8 @@
 | Rotate Image | [LeetCode](https://leetcode.com/problems/rotate-image/) | [YouTube](https://www.youtube.com/watch?v=Y72QeX0Efxw) | [Java](./codes/java/RotateImage.java) |
 | Substring with concatenation of all words | [LeetCode](https://leetcode.com/problems/substring-with-concatenation-of-all-words/) | [YouTube](https://www.youtube.com/watch?v=_MGzsJ0F8lE) | [Java](./codes/java/SubstringWithConcatenationOfAllWords.java) |
 |Largest rectangular sub-matrix having sum divisible by k| [GFG](https://www.geeksforgeeks.org/largest-rectangular-sub-matrix-sum-divisible-k/) | [YouTube](https://www.youtube.com/watch?v=_MGzsJ0F8lE) | [Python](./codes/python/largest_rectangular_sub_matrix_sum_divisbl_by_k) 
+|Sum of Subarray Minimums |[LeetCode](https://leetcode.com/problems/sum-of-subarray-minimums/) |[Youtube](https://youtu.be/9-TXIVEXX2w?si=ktLhMFP8uMgkjXp5) |[C++](./codes/cpp/sum_of_subarray_minimums.cpp)
+|Trapping Rain Water |[LeetCode](https://leetcode.com/problems/trapping-rain-water/) |[Youtube](https://youtu.be/m18Hntz4go8?si=tIof7wcU0hnYjbyk) |[C++](./codes/cpp/trapping_rainwater.cpp)
 |Next Greater Element III |[LeetCode](https://leetcode.com/problems/next-greater-element-iii/) |[Youtube](https://youtu.be/fOeD3CW2c7c?si=n5lOpXS44P7R6q-y)|[C++](./codes/cpp/next_greater_element3.cpp)
 | Largest rectangular sub-matrix having sum divisible by k| [GFG](https://www.geeksforgeeks.org/largest-rectangular-sub-matrix-sum-divisible-k/) | [YouTube](https://www.youtube.com/watch?v=_MGzsJ0F8lE) | [Python](./codes/python/largest_rectangular_sub_matrix_sum_divisbl_by_k) 
 | Word Break |[LeetCode](https://leetcode.com/problems/word-break/) |[Youtube](https://youtu.be/Sx9NNgInc3A?si=tzljO1p5FRdEaAPf) |[C++](./codes/cpp/word_break.cpp)
