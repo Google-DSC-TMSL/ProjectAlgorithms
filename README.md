@@ -64,6 +64,7 @@
 | Add Two Numbers II |[LeetCode](https://leetcode.com/problems/add-two-numbers-ii/) |[Youtube](https://www.youtube.com/watch?v=B-uQN5wp6Jg) |[C++](./codes/cpp/AddTwoNumbers2.cpp)
 | Linked List Cycle II |[LeetCode](https://leetcode.com/problems/linked-list-cycle-ii/) |[Youtube](https://www.youtube.com/watch?v=QfbOhn0WZ88) |[C++](./codes/cpp/LinkedListCycle2.cpp)
 | Copy List with Random Pointer |[LeetCode](https://leetcode.com/problems/copy-list-with-random-pointer/) |[Youtube](https://www.youtube.com/watch?v=VNf6VynfpdM) |[C++](./codes/cpp/CopyListWithRandomPointer.cpp)
+| Remove Nth Node From End of List |[LeetCode](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) |[Youtube](https://www.youtube.com/watch?v=Lhu3MsXZy-Q) |[C++](./codes/cpp/RemoveNthNodeFromEndOfList.cpp)
 
 <!--End here-->
 
