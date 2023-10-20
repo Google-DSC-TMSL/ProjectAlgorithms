@@ -60,6 +60,7 @@
 | Largest rectangular sub-matrix having sum divisible by k| [GFG](https://www.geeksforgeeks.org/largest-rectangular-sub-matrix-sum-divisible-k/) | [YouTube](https://www.youtube.com/watch?v=_MGzsJ0F8lE) | [Python](./codes/python/largest_rectangular_sub_matrix_sum_divisbl_by_k) 
 | Word Break |[LeetCode](https://leetcode.com/problems/word-break/) |[Youtube](https://youtu.be/Sx9NNgInc3A?si=tzljO1p5FRdEaAPf) |[C++](./codes/cpp/word_break.cpp)
 | Combination Sum III |[LeetCode](https://leetcode.com/problems/combination-sum-iii/) |[Youtube](https://youtu.be/rP_K3WJnRR4?si=W1RUODPlWwOSvsnV) |[C++](./codes/cpp/combination_sum_iii.cpp)
+| Sort Colors |[LeetCode](https://leetcode.com/problems/sort-colors/description/) |[Youtube](https://www.youtube.com/watch?v=oaVa-9wmpns) |[C++](./codes/cpp/SortColors.cpp)|
 
 <!--End here-->
 
