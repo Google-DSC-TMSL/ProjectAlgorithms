@@ -21,7 +21,7 @@
     
 | Problem Name | Link | Approach | Code |
 | ------- | ------- | ---------- | -------- |
-| 3 Sum Closest |  [LeetCode](https://leetcode.com/problems/3sum-closest/)  | [Youtube](https://www.youtube.com/watch?v=qBr2hq4daWE) | [Java](./codes/java/3sumclosest.java) |
+| 3 Sum Closest |  [LeetCode](https://leetcode.com/problems/3sum-closest/)  | [Youtube](https://www.youtube.com/watch?v=qBr2hq4daWE) | [Java](./codes/java/3sumclosest.java) | [C++](./codes/cpp/3sumclosest.cpp) |
 | Time Based Key Value Store |  [LeetCode](https://leetcode.com/problems/time-based-key-value-store/)  | [Youtube](https://www.youtube.com/watch?v=fu2cD_6E8Hw)<br> [Medium](https://sakshi8699.medium.com/981-time-based-key-value-store-python-65bd81742818)| [Java](./codes/java/timebasedkeyvaluestore.java)<br> [Python](./codes/python/timebasedkeyvaluestore.py) |
 | Longest Common Substring | [GFG](https://www.geeksforgeeks.org/longest-common-substring-dp-29/)  | [Youtube](https://www.youtube.com/watch?v=_wP9mWNPL5w&t=689s) | [Java](./codes/java/LongestCommonSubstring.java)
 | House Robber II |  [LeetCode](https://leetcode.com/problems/house-robber-ii/)  | [Youtube](https://www.youtube.com/watch?v=3WaxQMELSkw) | [Java](./codes/java/HouseRobberII.java) |
