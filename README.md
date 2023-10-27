@@ -21,7 +21,7 @@
     
 | Problem Name | Link | Approach | Code |
 | ------- | ------- | ---------- | -------- |
-| 3 Sum Closest |  [LeetCode](https://leetcode.com/problems/3sum-closest/)  | [Youtube](https://www.youtube.com/watch?v=qBr2hq4daWE) | [Java](./codes/java/3sumclosest.java) |
+| 3 Sum Closest |  [LeetCode](https://leetcode.com/problems/3sum-closest/)  | [Youtube](https://www.youtube.com/watch?v=qBr2hq4daWE) | [Java](./codes/java/3sumclosest.java)<br> [C++](./codes/cpp/3sumclosest.cpp) |
 | Time Based Key Value Store |  [LeetCode](https://leetcode.com/problems/time-based-key-value-store/)  | [Youtube](https://www.youtube.com/watch?v=fu2cD_6E8Hw)<br> [Medium](https://sakshi8699.medium.com/981-time-based-key-value-store-python-65bd81742818)| [Java](./codes/java/timebasedkeyvaluestore.java)<br> [Python](./codes/python/timebasedkeyvaluestore.py) |
 | Longest Common Substring | [GFG](https://www.geeksforgeeks.org/longest-common-substring-dp-29/)  | [Youtube](https://www.youtube.com/watch?v=_wP9mWNPL5w&t=689s) | [Java](./codes/java/LongestCommonSubstring.java)
 | House Robber II |  [LeetCode](https://leetcode.com/problems/house-robber-ii/)  | [Youtube](https://www.youtube.com/watch?v=3WaxQMELSkw) | [Java](./codes/java/HouseRobberII.java) |
@@ -61,6 +61,8 @@
 | Word Break |[LeetCode](https://leetcode.com/problems/word-break/) |[Youtube](https://youtu.be/Sx9NNgInc3A?si=tzljO1p5FRdEaAPf) |[C++](./codes/cpp/word_break.cpp)
 | Combination Sum III |[LeetCode](https://leetcode.com/problems/combination-sum-iii/) |[Youtube](https://youtu.be/rP_K3WJnRR4?si=W1RUODPlWwOSvsnV) |[C++](./codes/cpp/combination_sum_iii.cpp)
 | Shortest Common Supersequence |[LeetCode](https://leetcode.com/problems/shortest-common-supersequence) |[Youtube](https://youtu.be/823Grn4_dCQ?si=98CB83DN0gOwoa9k) |[C++](./codes/cpp/shortestCommonSupersequence.cpp)
+| Partition Equal Subset Sum |[LeetCode](https://leetcode.com/problems/partition-equal-subset-sum) |[Youtube](https://youtu.be/UmMh7xp07kY?si=A4-OUJ4J0MKgzHpu) |[C++](./codes/cpp/partitionEqualSubsetSum.cpp)
+| Target Sum |[LeetCode](https://leetcode.com/problems/target-sum) |[Youtube](https://youtu.be/Hw6Ygp3JBYw?si=q3EJhX8Dr9jEQ6nj) |[C++](./codes/cpp/targetSum.cpp)
 
 <!--End here-->
 
