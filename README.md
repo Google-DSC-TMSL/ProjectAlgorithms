@@ -63,6 +63,7 @@
 | Sort Colors |[LeetCode](https://leetcode.com/problems/sort-colors/description/) |[Youtube](https://www.youtube.com/watch?v=oaVa-9wmpns) |[C++](./codes/cpp/SortColors.cpp)|
 | Odd Even Linked List |[LeetCode](https://leetcode.com/problems/odd-even-linked-list/) |[Youtube](https://www.youtube.com/watch?v=_VHInOZbp6A) |[C++](./codes/cpp/OddEvenList.cpp)
 | Add Two Numbers II |[LeetCode](https://leetcode.com/problems/add-two-numbers-ii/) |[Youtube](https://www.youtube.com/watch?v=B-uQN5wp6Jg) |[C++](./codes/cpp/AddTwoNumbers2.cpp)
+| Search in Rotated Sorted Array |[LeetCode](https://leetcode.com/problems/search-in-rotated-sorted-array/) |[Youtube](https://www.youtube.com/watch?v=iXLMMbdjeNM) |[C++](./codes/cpp/SearchRotatedSortedArray.cpp)
 | Linked List Cycle II |[LeetCode](https://leetcode.com/problems/linked-list-cycle-ii/) |[Youtube](https://www.youtube.com/watch?v=QfbOhn0WZ88) |[C++](./codes/cpp/LinkedListCycle2.cpp
 | Copy List with Random Pointer |[LeetCode](https://leetcode.com/problems/copy-list-with-random-pointer/) |[Youtube](https://www.youtube.com/watch?v=VNf6VynfpdM) |[C++](./codes/cpp/CopyListWithRandomPointer.cpp)
 | Remove Nth Node From End of List |[LeetCode](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) |[Youtube](https://www.youtube.com/watch?v=Lhu3MsXZy-Q) |[C++](./codes/cpp/RemoveNthNodeFromEndOfList.cpp)
