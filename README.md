@@ -60,6 +60,7 @@
 | Largest rectangular sub-matrix having sum divisible by k| [GFG](https://www.geeksforgeeks.org/largest-rectangular-sub-matrix-sum-divisible-k/) | [YouTube](https://www.youtube.com/watch?v=_MGzsJ0F8lE) | [Python](./codes/python/largest_rectangular_sub_matrix_sum_divisbl_by_k) 
 | Word Break |[LeetCode](https://leetcode.com/problems/word-break/) |[Youtube](https://youtu.be/Sx9NNgInc3A?si=tzljO1p5FRdEaAPf) |[C++](./codes/cpp/word_break.cpp)
 | Combination Sum III |[LeetCode](https://leetcode.com/problems/combination-sum-iii/) |[Youtube](https://youtu.be/rP_K3WJnRR4?si=W1RUODPlWwOSvsnV) |[C++](./codes/cpp/combination_sum_iii.cpp)
+| Next Permutation |[LeetCode](https://leetcode.com/problems/next-permutation/description/) |[Youtube](https://www.youtube.com/watch?v=JDOXKqF60RQ) |[C++](./codes/cpp/nextPermutation.cpp) |
 | Spiral Matrix |[LeetCode](https://leetcode.com/problems/spiral-matrix/description/) |[Youtube](https://www.youtube.com/watch?v=3Zv-s9UUrFM) |[C++](./codes/cpp/SpiralMatrix.cpp) |
 | Sort Colors |[LeetCode](https://leetcode.com/problems/sort-colors/description/) |[Youtube](https://www.youtube.com/watch?v=oaVa-9wmpns) |[C++](./codes/cpp/SortColors.cpp)|
 | Odd Even Linked List |[LeetCode](https://leetcode.com/problems/odd-even-linked-list/) |[Youtube](https://www.youtube.com/watch?v=_VHInOZbp6A) |[C++](./codes/cpp/OddEvenList.cpp)
@@ -75,7 +76,6 @@
 | Shortest Common Supersequence |[LeetCode](https://leetcode.com/problems/shortest-common-supersequence) |[Youtube](https://youtu.be/823Grn4_dCQ?si=98CB83DN0gOwoa9k) |[C++](./codes/cpp/shortestCommonSupersequence.cpp)
 | Partition Equal Subset Sum |[LeetCode](https://leetcode.com/problems/partition-equal-subset-sum) |[Youtube](https://youtu.be/UmMh7xp07kY?si=A4-OUJ4J0MKgzHpu) |[C++](./codes/cpp/partitionEqualSubsetSum.cpp)
 | Target Sum |[LeetCode](https://leetcode.com/problems/target-sum) |[Youtube](https://youtu.be/Hw6Ygp3JBYw?si=q3EJhX8Dr9jEQ6nj) |[C++](./codes/cpp/targetSum.cpp)
-
 <!--End here-->
 
 </h2>
