@@ -52,6 +52,9 @@
 | Rotate Image | [LeetCode](https://leetcode.com/problems/rotate-image/) | [YouTube](https://www.youtube.com/watch?v=Y72QeX0Efxw) | [Java](./codes/java/RotateImage.java) |
 | Substring with concatenation of all words | [LeetCode](https://leetcode.com/problems/substring-with-concatenation-of-all-words/) | [YouTube](https://www.youtube.com/watch?v=_MGzsJ0F8lE) | [Java](./codes/java/SubstringWithConcatenationOfAllWords.java) |
 |Largest rectangular sub-matrix having sum divisible by k| [GFG](https://www.geeksforgeeks.org/largest-rectangular-sub-matrix-sum-divisible-k/) | [YouTube](https://www.youtube.com/watch?v=_MGzsJ0F8lE) | [Python](./codes/python/largest_rectangular_sub_matrix_sum_divisbl_by_k) |
+|Determine if a Cell Is Reachable at a Given Time| [LeetCode](https://leetcode.com/problems/determine-if-a-cell-is-reachable-at-a-given-time/description/) | [YouTube](https://www.youtube.com/watch?v=2DNQHCls0Kw) | [C++](./codes/cpp/DetermineifaCellIsReachableataGivenTime.cpp) |
+|Maximum Value of an Ordered Triplet II| [LeetCode](https://leetcode.com/problems/maximum-value-of-an-ordered-triplet-ii/description/) | [YouTube](https://www.youtube.com/watch?v=QBLw9bVFIDQ) | [C++](./codes/cpp/MaximumValueofanOrderedTripletII.cpp) |
+|Minimum Operations to Form Subsequence With Target Sum| [LeetCode](https://leetcode.com/problems/minimum-operations-to-form-subsequence-with-target-sum/description/) | [YouTube](https://www.youtube.com/watch?v=meg0d6tB1Y0) | [C++](./codes/cpp/MinimumOperationstoFormSubsequenceWithTargetSum.cpp) |
 
 <!--End here-->
 
